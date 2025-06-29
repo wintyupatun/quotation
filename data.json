@@ -1,0 +1,27 @@
+[
+    {
+        "quantity": 1,
+        "description": "Ignite Tee",
+        "unitPrice": 1200.00,
+        "amount": 1200.00
+    },
+    {
+        "quantity": 2,
+        "description": "Endure Leggings",
+        "unitPrice": 1500.00,
+        "amount": 3000.00
+    },
+    {
+        "quantity": 1,
+        "description": "RepMate Gym Bag",
+        "unitPrice": 1800.00,
+        "amount": 1800.00
+    },
+    {
+        "quantity": 1,
+        "description": "GripMax Gloves",
+        "unitPrice": 500.00,
+        "amount": 500.00
+    }
+  ]
+ 
